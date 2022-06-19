@@ -7,7 +7,8 @@ The web app takes user input in the form of a .txt file containing the ChEMBLid 
 
 ---
 ### Credits: 
-This project was created by Sara Then with inspiration and guidance from [Chanin Nantasenamat/dataprofessor](https://github.com/dataprofessor) and the Bioinformatics from Scratch Series. 
+
+#### This project was created by Sara Then with inspiration and guidance from Chanin Nantasenamat ([dataprofessor](https://github.com/dataprofessor)) and the Bioinformatics from Scratch series. 
 ---
 ### References:
 
